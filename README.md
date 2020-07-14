@@ -1,16 +1,11 @@
-### Hi there 👋
+# ## # Jose Meléndez - @JoseMelNet
 
-<!--
-**JoseMelNet/JoseMelNet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------------
+Hi there 👋
+------------
+I am an electrical engineer, passionate about the analysis and exploitation of data using technologies such as Big Data and Artificial Intelligence.
+- 👨‍💻 I am currently a PlatziMaster Student
+- 🤓🤖 I am learning about Data Science and Artificial Intelligence
+##Contact me
+[- Twitter](https://twitter.com/JoseMelNet "- Twitter")
+[- Linkedin](www.linkedin.com/in/josemelnet "- Linkedin")
